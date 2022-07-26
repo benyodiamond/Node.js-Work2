@@ -1,6 +1,7 @@
 # Node.js-Work2
 //Patika.dev
 Ödev-2-
+![image](https://user-images.githubusercontent.com/71225955/180971991-fb81dbe9-354d-4901-a055-7fa50f8a967a.png)
 // Array oluşturuldu
 const Posts = [
     { Ders:"Matematik", Not: "90" },
